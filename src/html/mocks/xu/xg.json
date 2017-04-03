@@ -1,0 +1,286 @@
+{
+  "code": 200,
+  "msg": [
+    {
+      "typeId": 100001,
+      "parentTypeId": 0,
+      "typeName": "到店餐饮事业群",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 1,
+          "parentTypeId": 1,
+          "typeName": "推广业务部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 2,
+          "parentTypeId": 1,
+          "typeName": "北一/北二大区",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 3,
+          "parentTypeId": 1,
+          "typeName": "CBD大区",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 4,
+          "parentTypeId": 1,
+          "typeName": "南一/南二大区",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 6,
+          "parentTypeId": 1,
+          "typeName": "品牌战略事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 7,
+          "parentTypeId": 1,
+          "typeName": "到餐其他",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 19,
+          "parentTypeId": 1,
+          "typeName": "商户运营部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    },
+    {
+      "typeId": 100002,
+      "parentTypeId": 0,
+      "typeName": "到店综合事业群",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 8,
+          "parentTypeId": 2,
+          "typeName": "家装全国销售",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 9,
+          "parentTypeId": 2,
+          "typeName": "结婚事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 10,
+          "parentTypeId": 2,
+          "typeName": "丽人事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 11,
+          "parentTypeId": 2,
+          "typeName": "亲子事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 13,
+          "parentTypeId": 2,
+          "typeName": "家装及教育培训业务部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 14,
+          "parentTypeId": 2,
+          "typeName": "休闲娱乐与社区生活事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 15,
+          "parentTypeId": 2,
+          "typeName": "KTV全国销售",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    },
+    {
+      "typeId": 100003,
+      "parentTypeId": 0,
+      "typeName": "广告平台",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 17,
+          "parentTypeId": 3,
+          "typeName": "商家运营部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    },
+    {
+      "typeId": 100005,
+      "parentTypeId": 0,
+      "typeName": "客服平台",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 21,
+          "parentTypeId": 5,
+          "typeName": "到店餐饮客服中心",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    },
+    {
+      "typeId": 100004,
+      "parentTypeId": 0,
+      "typeName": "餐饮生态平台",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 22,
+          "parentTypeId": 4,
+          "typeName": "外卖事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        },
+        {
+          "typeId": 20,
+          "parentTypeId": 4,
+          "typeName": "点餐事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    },
+    {
+      "typeId": 100006,
+      "parentTypeId": 0,
+      "typeName": "酒店旅游事业群",
+      "leadingAnswer": null,
+      "level": 1,
+      "firstOwnerId": 0,
+      "secondOwnerId": 0,
+      "children": [
+        {
+          "typeId": 23,
+          "parentTypeId": 6,
+          "typeName": "住宿事业部",
+          "leadingAnswer": null,
+          "level": 2,
+          "firstOwnerId": 0,
+          "secondOwnerId": 0,
+          "children": [],
+          "leaf": true
+        }
+      ],
+      "leaf": false
+    }
+  ]
+}

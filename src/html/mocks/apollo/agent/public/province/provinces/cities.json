@@ -1,0 +1,1577 @@
+{
+  "code": 200,
+  "msg": [
+    {
+      "provinceId": 1,
+      "provinceName": "安徽省",
+      "cities": [
+        {
+          "cityId": 1,
+          "provinceId": 1,
+          "cityName": "安庆市",
+          "mtCityId": "5000003"
+        },
+        {
+          "cityId": 2,
+          "provinceId": 1,
+          "cityName": "蚌埠市",
+          "mtCityId": "5000004"
+        },
+        {
+          "cityId": 3,
+          "provinceId": 1,
+          "cityName": "亳州市",
+          "mtCityId": "5000005"
+        },
+        {
+          "cityId": 4,
+          "provinceId": 1,
+          "cityName": "池州市",
+          "mtCityId": "5000006"
+        },
+        {
+          "cityId": 5,
+          "provinceId": 1,
+          "cityName": "滁州市",
+          "mtCityId": "5000007"
+        },
+        {
+          "cityId": 6,
+          "provinceId": 1,
+          "cityName": "阜阳市",
+          "mtCityId": "5000008"
+        },
+        {
+          "cityId": 7,
+          "provinceId": 1,
+          "cityName": "淮北市",
+          "mtCityId": "5000009"
+        },
+        {
+          "cityId": 8,
+          "provinceId": 1,
+          "cityName": "淮南市",
+          "mtCityId": "5000010"
+        },
+        {
+          "cityId": 9,
+          "provinceId": 1,
+          "cityName": "黄山市",
+          "mtCityId": "5000011"
+        },
+        {
+          "cityId": 10,
+          "provinceId": 1,
+          "cityName": "六安市",
+          "mtCityId": "5000012"
+        },
+        {
+          "cityId": 11,
+          "provinceId": 1,
+          "cityName": "铜陵市",
+          "mtCityId": "5000013"
+        },
+        {
+          "cityId": 12,
+          "provinceId": 1,
+          "cityName": "宿州市",
+          "mtCityId": "5000014"
+        },
+        {
+          "cityId": 13,
+          "provinceId": 1,
+          "cityName": "宣城市",
+          "mtCityId": "5000015"
+        },
+        {
+          "cityId": 213,
+          "provinceId": 1,
+          "cityName": "马鞍山市",
+          "mtCityId": "5000215"
+        },
+        {
+          "cityId": 214,
+          "provinceId": 1,
+          "cityName": "芜湖市",
+          "mtCityId": "5000216"
+        }
+      ]
+    },
+    {
+      "provinceId": 2,
+      "provinceName": "福建省",
+      "cities": [
+        {
+          "cityId": 14,
+          "provinceId": 2,
+          "cityName": "龙岩市",
+          "mtCityId": "5000016"
+        },
+        {
+          "cityId": 15,
+          "provinceId": 2,
+          "cityName": "南平市",
+          "mtCityId": "5000017"
+        },
+        {
+          "cityId": 16,
+          "provinceId": 2,
+          "cityName": "宁德市",
+          "mtCityId": "5000018"
+        },
+        {
+          "cityId": 17,
+          "provinceId": 2,
+          "cityName": "莆田市",
+          "mtCityId": "5000019"
+        },
+        {
+          "cityId": 18,
+          "provinceId": 2,
+          "cityName": "三明市",
+          "mtCityId": "5000020"
+        },
+        {
+          "cityId": 215,
+          "provinceId": 2,
+          "cityName": "漳州市",
+          "mtCityId": "5000217"
+        }
+      ]
+    },
+    {
+      "provinceId": 3,
+      "provinceName": "甘肃省",
+      "cities": [
+        {
+          "cityId": 19,
+          "provinceId": 3,
+          "cityName": "白银市",
+          "mtCityId": "5000021"
+        },
+        {
+          "cityId": 20,
+          "provinceId": 3,
+          "cityName": "定西市",
+          "mtCityId": "5000022"
+        },
+        {
+          "cityId": 21,
+          "provinceId": 3,
+          "cityName": "嘉峪关市",
+          "mtCityId": "5000023"
+        },
+        {
+          "cityId": 22,
+          "provinceId": 3,
+          "cityName": "金昌市",
+          "mtCityId": "5000024"
+        },
+        {
+          "cityId": 23,
+          "provinceId": 3,
+          "cityName": "酒泉市",
+          "mtCityId": "5000025"
+        },
+        {
+          "cityId": 24,
+          "provinceId": 3,
+          "cityName": "临夏回族自治州",
+          "mtCityId": "5000026"
+        },
+        {
+          "cityId": 25,
+          "provinceId": 3,
+          "cityName": "陇南市",
+          "mtCityId": "5000027"
+        },
+        {
+          "cityId": 26,
+          "provinceId": 3,
+          "cityName": "平凉市",
+          "mtCityId": "5000028"
+        },
+        {
+          "cityId": 27,
+          "provinceId": 3,
+          "cityName": "庆阳市",
+          "mtCityId": "5000029"
+        },
+        {
+          "cityId": 28,
+          "provinceId": 3,
+          "cityName": "天水市",
+          "mtCityId": "5000030"
+        },
+        {
+          "cityId": 29,
+          "provinceId": 3,
+          "cityName": "武威市",
+          "mtCityId": "5000031"
+        },
+        {
+          "cityId": 30,
+          "provinceId": 3,
+          "cityName": "张掖市",
+          "mtCityId": "5000032"
+        }
+      ]
+    },
+    {
+      "provinceId": 4,
+      "provinceName": "广东省",
+      "cities": [
+        {
+          "cityId": 31,
+          "provinceId": 4,
+          "cityName": "潮州市",
+          "mtCityId": "5000033"
+        },
+        {
+          "cityId": 32,
+          "provinceId": 4,
+          "cityName": "河源市",
+          "mtCityId": "5000034"
+        },
+        {
+          "cityId": 33,
+          "provinceId": 4,
+          "cityName": "揭阳市",
+          "mtCityId": "5000035"
+        },
+        {
+          "cityId": 34,
+          "provinceId": 4,
+          "cityName": "茂名市",
+          "mtCityId": "5000036"
+        },
+        {
+          "cityId": 35,
+          "provinceId": 4,
+          "cityName": "梅州市",
+          "mtCityId": "5000037"
+        },
+        {
+          "cityId": 36,
+          "provinceId": 4,
+          "cityName": "清远市",
+          "mtCityId": "5000038"
+        },
+        {
+          "cityId": 37,
+          "provinceId": 4,
+          "cityName": "汕尾市",
+          "mtCityId": "5000039"
+        },
+        {
+          "cityId": 38,
+          "provinceId": 4,
+          "cityName": "韶关市",
+          "mtCityId": "5000040"
+        },
+        {
+          "cityId": 39,
+          "provinceId": 4,
+          "cityName": "阳江市",
+          "mtCityId": "5000041"
+        },
+        {
+          "cityId": 40,
+          "provinceId": 4,
+          "cityName": "云浮市",
+          "mtCityId": "5000042"
+        },
+        {
+          "cityId": 41,
+          "provinceId": 4,
+          "cityName": "肇庆市",
+          "mtCityId": "5000043"
+        }
+      ]
+    },
+    {
+      "provinceId": 5,
+      "provinceName": "广西壮族自治区",
+      "cities": [
+        {
+          "cityId": 42,
+          "provinceId": 5,
+          "cityName": "百色市",
+          "mtCityId": "5000044"
+        },
+        {
+          "cityId": 43,
+          "provinceId": 5,
+          "cityName": "北海市",
+          "mtCityId": "5000045"
+        },
+        {
+          "cityId": 44,
+          "provinceId": 5,
+          "cityName": "崇左市",
+          "mtCityId": "5000046"
+        },
+        {
+          "cityId": 45,
+          "provinceId": 5,
+          "cityName": "防城港市",
+          "mtCityId": "5000047"
+        },
+        {
+          "cityId": 46,
+          "provinceId": 5,
+          "cityName": "贵港市",
+          "mtCityId": "5000048"
+        },
+        {
+          "cityId": 47,
+          "provinceId": 5,
+          "cityName": "河池市",
+          "mtCityId": "5000049"
+        },
+        {
+          "cityId": 48,
+          "provinceId": 5,
+          "cityName": "贺州市",
+          "mtCityId": "5000050"
+        },
+        {
+          "cityId": 49,
+          "provinceId": 5,
+          "cityName": "来宾市",
+          "mtCityId": "5000051"
+        },
+        {
+          "cityId": 50,
+          "provinceId": 5,
+          "cityName": "钦州市",
+          "mtCityId": "5000052"
+        },
+        {
+          "cityId": 51,
+          "provinceId": 5,
+          "cityName": "梧州市",
+          "mtCityId": "5000053"
+        },
+        {
+          "cityId": 52,
+          "provinceId": 5,
+          "cityName": "玉林市",
+          "mtCityId": "5000054"
+        }
+      ]
+    },
+    {
+      "provinceId": 6,
+      "provinceName": "贵州省",
+      "cities": [
+        {
+          "cityId": 53,
+          "provinceId": 6,
+          "cityName": "安顺市",
+          "mtCityId": "5000055"
+        },
+        {
+          "cityId": 54,
+          "provinceId": 6,
+          "cityName": "六盘水市",
+          "mtCityId": "5000056"
+        },
+        {
+          "cityId": 55,
+          "provinceId": 6,
+          "cityName": "铜仁市",
+          "mtCityId": "5000057"
+        },
+        {
+          "cityId": 56,
+          "provinceId": 6,
+          "cityName": "遵义市",
+          "mtCityId": "5000058"
+        }
+      ]
+    },
+    {
+      "provinceId": 7,
+      "provinceName": "海南省",
+      "cities": [
+        {
+          "cityId": 216,
+          "provinceId": 7,
+          "cityName": "海口市",
+          "mtCityId": "5000218"
+        },
+        {
+          "cityId": 217,
+          "provinceId": 7,
+          "cityName": "三亚市",
+          "mtCityId": "5000219"
+        }
+      ]
+    },
+    {
+      "provinceId": 8,
+      "provinceName": "河北省",
+      "cities": [
+        {
+          "cityId": 57,
+          "provinceId": 8,
+          "cityName": "沧州市",
+          "mtCityId": "5000059"
+        },
+        {
+          "cityId": 58,
+          "provinceId": 8,
+          "cityName": "承德市",
+          "mtCityId": "5000060"
+        },
+        {
+          "cityId": 59,
+          "provinceId": 8,
+          "cityName": "衡水市",
+          "mtCityId": "5000061"
+        },
+        {
+          "cityId": 60,
+          "provinceId": 8,
+          "cityName": "邢台市",
+          "mtCityId": "5000062"
+        },
+        {
+          "cityId": 61,
+          "provinceId": 8,
+          "cityName": "张家口市",
+          "mtCityId": "5000063"
+        },
+        {
+          "cityId": 218,
+          "provinceId": 8,
+          "cityName": "邯郸市",
+          "mtCityId": "5000220"
+        },
+        {
+          "cityId": 219,
+          "provinceId": 8,
+          "cityName": "廊坊市",
+          "mtCityId": "5000221"
+        },
+        {
+          "cityId": 220,
+          "provinceId": 8,
+          "cityName": "秦皇岛市",
+          "mtCityId": "5000222"
+        }
+      ]
+    },
+    {
+      "provinceId": 9,
+      "provinceName": "河南省",
+      "cities": [
+        {
+          "cityId": 62,
+          "provinceId": 9,
+          "cityName": "安阳市",
+          "mtCityId": "5000064"
+        },
+        {
+          "cityId": 63,
+          "provinceId": 9,
+          "cityName": "鹤壁市",
+          "mtCityId": "5000065"
+        },
+        {
+          "cityId": 64,
+          "provinceId": 9,
+          "cityName": "焦作市",
+          "mtCityId": "5000066"
+        },
+        {
+          "cityId": 65,
+          "provinceId": 9,
+          "cityName": "开封市",
+          "mtCityId": "5000067"
+        },
+        {
+          "cityId": 66,
+          "provinceId": 9,
+          "cityName": "漯河市",
+          "mtCityId": "5000068"
+        },
+        {
+          "cityId": 67,
+          "provinceId": 9,
+          "cityName": "南阳市",
+          "mtCityId": "5000069"
+        },
+        {
+          "cityId": 68,
+          "provinceId": 9,
+          "cityName": "平顶山市",
+          "mtCityId": "5000070"
+        },
+        {
+          "cityId": 69,
+          "provinceId": 9,
+          "cityName": "濮阳市",
+          "mtCityId": "5000071"
+        },
+        {
+          "cityId": 70,
+          "provinceId": 9,
+          "cityName": "三门峡市",
+          "mtCityId": "5000072"
+        },
+        {
+          "cityId": 71,
+          "provinceId": 9,
+          "cityName": "商丘市",
+          "mtCityId": "5000073"
+        },
+        {
+          "cityId": 72,
+          "provinceId": 9,
+          "cityName": "新乡市",
+          "mtCityId": "5000074"
+        },
+        {
+          "cityId": 73,
+          "provinceId": 9,
+          "cityName": "信阳市",
+          "mtCityId": "5000075"
+        },
+        {
+          "cityId": 74,
+          "provinceId": 9,
+          "cityName": "许昌市",
+          "mtCityId": "5000076"
+        },
+        {
+          "cityId": 75,
+          "provinceId": 9,
+          "cityName": "周口市",
+          "mtCityId": "5000077"
+        },
+        {
+          "cityId": 76,
+          "provinceId": 9,
+          "cityName": "驻马店市",
+          "mtCityId": "5000078"
+        }
+      ]
+    },
+    {
+      "provinceId": 10,
+      "provinceName": "黑龙江省",
+      "cities": [
+        {
+          "cityId": 77,
+          "provinceId": 10,
+          "cityName": "大庆市",
+          "mtCityId": "5000079"
+        },
+        {
+          "cityId": 78,
+          "provinceId": 10,
+          "cityName": "大兴安岭地区",
+          "mtCityId": "5000080"
+        },
+        {
+          "cityId": 79,
+          "provinceId": 10,
+          "cityName": "鹤岗市",
+          "mtCityId": "5000081"
+        },
+        {
+          "cityId": 80,
+          "provinceId": 10,
+          "cityName": "黑河市",
+          "mtCityId": "5000082"
+        },
+        {
+          "cityId": 81,
+          "provinceId": 10,
+          "cityName": "鸡西市",
+          "mtCityId": "5000083"
+        },
+        {
+          "cityId": 82,
+          "provinceId": 10,
+          "cityName": "佳木斯市",
+          "mtCityId": "5000084"
+        },
+        {
+          "cityId": 83,
+          "provinceId": 10,
+          "cityName": "牡丹江市",
+          "mtCityId": "5000085"
+        },
+        {
+          "cityId": 84,
+          "provinceId": 10,
+          "cityName": "七台河市",
+          "mtCityId": "5000086"
+        },
+        {
+          "cityId": 85,
+          "provinceId": 10,
+          "cityName": "齐齐哈尔市",
+          "mtCityId": "5000087"
+        },
+        {
+          "cityId": 86,
+          "provinceId": 10,
+          "cityName": "双鸭山市",
+          "mtCityId": "5000088"
+        },
+        {
+          "cityId": 87,
+          "provinceId": 10,
+          "cityName": "绥化市",
+          "mtCityId": "5000089"
+        },
+        {
+          "cityId": 88,
+          "provinceId": 10,
+          "cityName": "伊春市",
+          "mtCityId": "5000090"
+        }
+      ]
+    },
+    {
+      "provinceId": 11,
+      "provinceName": "湖北省",
+      "cities": [
+        {
+          "cityId": 89,
+          "provinceId": 11,
+          "cityName": "鄂州市",
+          "mtCityId": "5000091"
+        },
+        {
+          "cityId": 90,
+          "provinceId": 11,
+          "cityName": "黄冈市",
+          "mtCityId": "5000092"
+        },
+        {
+          "cityId": 91,
+          "provinceId": 11,
+          "cityName": "黄石市",
+          "mtCityId": "5000093"
+        },
+        {
+          "cityId": 92,
+          "provinceId": 11,
+          "cityName": "荆门市",
+          "mtCityId": "5000094"
+        },
+        {
+          "cityId": 93,
+          "provinceId": 11,
+          "cityName": "荆州市",
+          "mtCityId": "5000095"
+        },
+        {
+          "cityId": 94,
+          "provinceId": 11,
+          "cityName": "十堰市",
+          "mtCityId": "5000096"
+        },
+        {
+          "cityId": 95,
+          "provinceId": 11,
+          "cityName": "随州市",
+          "mtCityId": "5000097"
+        },
+        {
+          "cityId": 96,
+          "provinceId": 11,
+          "cityName": "咸宁市",
+          "mtCityId": "5000098"
+        },
+        {
+          "cityId": 97,
+          "provinceId": 11,
+          "cityName": "孝感市",
+          "mtCityId": "5000099"
+        },
+        {
+          "cityId": 221,
+          "provinceId": 11,
+          "cityName": "襄阳市",
+          "mtCityId": "5000223"
+        },
+        {
+          "cityId": 222,
+          "provinceId": 11,
+          "cityName": "宜昌市",
+          "mtCityId": "5000224"
+        }
+      ]
+    },
+    {
+      "provinceId": 12,
+      "provinceName": "湖南省",
+      "cities": [
+        {
+          "cityId": 98,
+          "provinceId": 12,
+          "cityName": "常德市",
+          "mtCityId": "5000100"
+        },
+        {
+          "cityId": 99,
+          "provinceId": 12,
+          "cityName": "郴州市",
+          "mtCityId": "5000101"
+        },
+        {
+          "cityId": 100,
+          "provinceId": 12,
+          "cityName": "衡阳市",
+          "mtCityId": "5000102"
+        },
+        {
+          "cityId": 101,
+          "provinceId": 12,
+          "cityName": "怀化市",
+          "mtCityId": "5000103"
+        },
+        {
+          "cityId": 102,
+          "provinceId": 12,
+          "cityName": "娄底市",
+          "mtCityId": "5000104"
+        },
+        {
+          "cityId": 103,
+          "provinceId": 12,
+          "cityName": "邵阳市",
+          "mtCityId": "5000105"
+        },
+        {
+          "cityId": 104,
+          "provinceId": 12,
+          "cityName": "湘潭市",
+          "mtCityId": "5000106"
+        },
+        {
+          "cityId": 105,
+          "provinceId": 12,
+          "cityName": "益阳市",
+          "mtCityId": "5000107"
+        },
+        {
+          "cityId": 106,
+          "provinceId": 12,
+          "cityName": "永州市",
+          "mtCityId": "5000108"
+        },
+        {
+          "cityId": 107,
+          "provinceId": 12,
+          "cityName": "岳阳市",
+          "mtCityId": "5000109"
+        },
+        {
+          "cityId": 108,
+          "provinceId": 12,
+          "cityName": "张家界市",
+          "mtCityId": "5000110"
+        },
+        {
+          "cityId": 109,
+          "provinceId": 12,
+          "cityName": "株洲市",
+          "mtCityId": "5000111"
+        }
+      ]
+    },
+    {
+      "provinceId": 13,
+      "provinceName": "吉林省",
+      "cities": [
+        {
+          "cityId": 110,
+          "provinceId": 13,
+          "cityName": "白城市",
+          "mtCityId": "5000112"
+        },
+        {
+          "cityId": 111,
+          "provinceId": 13,
+          "cityName": "白山市",
+          "mtCityId": "5000113"
+        },
+        {
+          "cityId": 112,
+          "provinceId": 13,
+          "cityName": "吉林市",
+          "mtCityId": "5000114"
+        },
+        {
+          "cityId": 113,
+          "provinceId": 13,
+          "cityName": "辽源市",
+          "mtCityId": "5000115"
+        },
+        {
+          "cityId": 114,
+          "provinceId": 13,
+          "cityName": "四平市",
+          "mtCityId": "5000116"
+        },
+        {
+          "cityId": 115,
+          "provinceId": 13,
+          "cityName": "松原市",
+          "mtCityId": "5000117"
+        },
+        {
+          "cityId": 116,
+          "provinceId": 13,
+          "cityName": "通化市",
+          "mtCityId": "5000118"
+        }
+      ]
+    },
+    {
+      "provinceId": 14,
+      "provinceName": "江苏省",
+      "cities": [
+        {
+          "cityId": 223,
+          "provinceId": 14,
+          "cityName": "淮安市",
+          "mtCityId": "5000225"
+        },
+        {
+          "cityId": 224,
+          "provinceId": 14,
+          "cityName": "连云港市",
+          "mtCityId": "5000226"
+        },
+        {
+          "cityId": 225,
+          "provinceId": 14,
+          "cityName": "宿迁市",
+          "mtCityId": "5000227"
+        },
+        {
+          "cityId": 226,
+          "provinceId": 14,
+          "cityName": "盐城市",
+          "mtCityId": "5000228"
+        },
+        {
+          "cityId": 227,
+          "provinceId": 14,
+          "cityName": "扬州市",
+          "mtCityId": "5000229"
+        },
+        {
+          "cityId": 228,
+          "provinceId": 14,
+          "cityName": "镇江市",
+          "mtCityId": "5000230"
+        }
+      ]
+    },
+    {
+      "provinceId": 15,
+      "provinceName": "江西省",
+      "cities": [
+        {
+          "cityId": 117,
+          "provinceId": 15,
+          "cityName": "抚州市",
+          "mtCityId": "5000119"
+        },
+        {
+          "cityId": 118,
+          "provinceId": 15,
+          "cityName": "赣州市",
+          "mtCityId": "5000120"
+        },
+        {
+          "cityId": 119,
+          "provinceId": 15,
+          "cityName": "吉安市",
+          "mtCityId": "5000121"
+        },
+        {
+          "cityId": 120,
+          "provinceId": 15,
+          "cityName": "景德镇市",
+          "mtCityId": "5000122"
+        },
+        {
+          "cityId": 121,
+          "provinceId": 15,
+          "cityName": "九江市",
+          "mtCityId": "5000123"
+        },
+        {
+          "cityId": 122,
+          "provinceId": 15,
+          "cityName": "萍乡市",
+          "mtCityId": "5000124"
+        },
+        {
+          "cityId": 123,
+          "provinceId": 15,
+          "cityName": "上饶市",
+          "mtCityId": "5000125"
+        },
+        {
+          "cityId": 124,
+          "provinceId": 15,
+          "cityName": "新余市",
+          "mtCityId": "5000126"
+        },
+        {
+          "cityId": 125,
+          "provinceId": 15,
+          "cityName": "宜春市",
+          "mtCityId": "5000127"
+        },
+        {
+          "cityId": 126,
+          "provinceId": 15,
+          "cityName": "鹰潭市",
+          "mtCityId": "5000128"
+        }
+      ]
+    },
+    {
+      "provinceId": 16,
+      "provinceName": "辽宁省",
+      "cities": [
+        {
+          "cityId": 127,
+          "provinceId": 16,
+          "cityName": "本溪市",
+          "mtCityId": "5000129"
+        },
+        {
+          "cityId": 128,
+          "provinceId": 16,
+          "cityName": "朝阳市",
+          "mtCityId": "5000130"
+        },
+        {
+          "cityId": 129,
+          "provinceId": 16,
+          "cityName": "丹东市",
+          "mtCityId": "5000131"
+        },
+        {
+          "cityId": 130,
+          "provinceId": 16,
+          "cityName": "阜新市",
+          "mtCityId": "5000132"
+        },
+        {
+          "cityId": 131,
+          "provinceId": 16,
+          "cityName": "葫芦岛市",
+          "mtCityId": "5000133"
+        },
+        {
+          "cityId": 132,
+          "provinceId": 16,
+          "cityName": "锦州市",
+          "mtCityId": "5000134"
+        },
+        {
+          "cityId": 133,
+          "provinceId": 16,
+          "cityName": "辽阳市",
+          "mtCityId": "5000135"
+        },
+        {
+          "cityId": 134,
+          "provinceId": 16,
+          "cityName": "盘锦市",
+          "mtCityId": "5000136"
+        },
+        {
+          "cityId": 135,
+          "provinceId": 16,
+          "cityName": "铁岭市",
+          "mtCityId": "5000137"
+        },
+        {
+          "cityId": 136,
+          "provinceId": 16,
+          "cityName": "营口市",
+          "mtCityId": "5000138"
+        }
+      ]
+    },
+    {
+      "provinceId": 17,
+      "provinceName": "内蒙古自治区",
+      "cities": [
+        {
+          "cityId": 137,
+          "provinceId": 17,
+          "cityName": "巴彦淖尔市",
+          "mtCityId": "5000139"
+        },
+        {
+          "cityId": 138,
+          "provinceId": 17,
+          "cityName": "包头市",
+          "mtCityId": "5000140"
+        },
+        {
+          "cityId": 139,
+          "provinceId": 17,
+          "cityName": "赤峰市",
+          "mtCityId": "5000141"
+        },
+        {
+          "cityId": 140,
+          "provinceId": 17,
+          "cityName": "鄂尔多斯市",
+          "mtCityId": "5000142"
+        },
+        {
+          "cityId": 141,
+          "provinceId": 17,
+          "cityName": "呼伦贝尔市",
+          "mtCityId": "5000143"
+        },
+        {
+          "cityId": 142,
+          "provinceId": 17,
+          "cityName": "通辽市",
+          "mtCityId": "5000144"
+        },
+        {
+          "cityId": 143,
+          "provinceId": 17,
+          "cityName": "乌海市",
+          "mtCityId": "5000145"
+        },
+        {
+          "cityId": 144,
+          "provinceId": 17,
+          "cityName": "乌兰察布市",
+          "mtCityId": "5000146"
+        },
+        {
+          "cityId": 145,
+          "provinceId": 17,
+          "cityName": "锡林郭勒盟",
+          "mtCityId": "5000147"
+        }
+      ]
+    },
+    {
+      "provinceId": 18,
+      "provinceName": "宁夏回族自治区",
+      "cities": [
+        {
+          "cityId": 146,
+          "provinceId": 18,
+          "cityName": "固原市",
+          "mtCityId": "5000148"
+        },
+        {
+          "cityId": 147,
+          "provinceId": 18,
+          "cityName": "石嘴山市",
+          "mtCityId": "5000149"
+        },
+        {
+          "cityId": 148,
+          "provinceId": 18,
+          "cityName": "吴忠市",
+          "mtCityId": "5000150"
+        },
+        {
+          "cityId": 149,
+          "provinceId": 18,
+          "cityName": "中卫市",
+          "mtCityId": "5000151"
+        }
+      ]
+    },
+    {
+      "provinceId": 19,
+      "provinceName": "青海省",
+      "cities": [
+        {
+          "cityId": 150,
+          "provinceId": 19,
+          "cityName": "海东市",
+          "mtCityId": "5000152"
+        },
+        {
+          "cityId": 229,
+          "provinceId": 19,
+          "cityName": "西宁市",
+          "mtCityId": "5000231"
+        }
+      ]
+    },
+    {
+      "provinceId": 20,
+      "provinceName": "山东省",
+      "cities": [
+        {
+          "cityId": 151,
+          "provinceId": 20,
+          "cityName": "滨州市",
+          "mtCityId": "5000153"
+        },
+        {
+          "cityId": 152,
+          "provinceId": 20,
+          "cityName": "东营市",
+          "mtCityId": "5000154"
+        },
+        {
+          "cityId": 153,
+          "provinceId": 20,
+          "cityName": "菏泽市",
+          "mtCityId": "5000155"
+        },
+        {
+          "cityId": 154,
+          "provinceId": 20,
+          "cityName": "莱芜市",
+          "mtCityId": "5000156"
+        },
+        {
+          "cityId": 155,
+          "provinceId": 20,
+          "cityName": "聊城市",
+          "mtCityId": "5000157"
+        },
+        {
+          "cityId": 156,
+          "provinceId": 20,
+          "cityName": "日照市",
+          "mtCityId": "5000158"
+        },
+        {
+          "cityId": 157,
+          "provinceId": 20,
+          "cityName": "枣庄市",
+          "mtCityId": "5000159"
+        },
+        {
+          "cityId": 230,
+          "provinceId": 20,
+          "cityName": "济宁市",
+          "mtCityId": "5000232"
+        },
+        {
+          "cityId": 231,
+          "provinceId": 20,
+          "cityName": "泰安市",
+          "mtCityId": "5000233"
+        },
+        {
+          "cityId": 232,
+          "provinceId": 20,
+          "cityName": "威海市",
+          "mtCityId": "5000234"
+        }
+      ]
+    },
+    {
+      "provinceId": 21,
+      "provinceName": "山西省",
+      "cities": [
+        {
+          "cityId": 158,
+          "provinceId": 21,
+          "cityName": "大同市",
+          "mtCityId": "5000160"
+        },
+        {
+          "cityId": 159,
+          "provinceId": 21,
+          "cityName": "晋城市",
+          "mtCityId": "5000161"
+        },
+        {
+          "cityId": 160,
+          "provinceId": 21,
+          "cityName": "晋中市",
+          "mtCityId": "5000162"
+        },
+        {
+          "cityId": 161,
+          "provinceId": 21,
+          "cityName": "临汾市",
+          "mtCityId": "5000163"
+        },
+        {
+          "cityId": 162,
+          "provinceId": 21,
+          "cityName": "吕梁市",
+          "mtCityId": "5000164"
+        },
+        {
+          "cityId": 163,
+          "provinceId": 21,
+          "cityName": "朔州市",
+          "mtCityId": "5000165"
+        },
+        {
+          "cityId": 164,
+          "provinceId": 21,
+          "cityName": "忻州市",
+          "mtCityId": "5000166"
+        },
+        {
+          "cityId": 165,
+          "provinceId": 21,
+          "cityName": "阳泉市",
+          "mtCityId": "5000167"
+        },
+        {
+          "cityId": 166,
+          "provinceId": 21,
+          "cityName": "运城市",
+          "mtCityId": "5000168"
+        },
+        {
+          "cityId": 167,
+          "provinceId": 21,
+          "cityName": "长治市",
+          "mtCityId": "5000169"
+        }
+      ]
+    },
+    {
+      "provinceId": 22,
+      "provinceName": "陕西省",
+      "cities": [
+        {
+          "cityId": 168,
+          "provinceId": 22,
+          "cityName": "安康市",
+          "mtCityId": "5000170"
+        },
+        {
+          "cityId": 169,
+          "provinceId": 22,
+          "cityName": "宝鸡市",
+          "mtCityId": "5000171"
+        },
+        {
+          "cityId": 170,
+          "provinceId": 22,
+          "cityName": "汉中市",
+          "mtCityId": "5000172"
+        },
+        {
+          "cityId": 171,
+          "provinceId": 22,
+          "cityName": "商洛市",
+          "mtCityId": "5000173"
+        },
+        {
+          "cityId": 172,
+          "provinceId": 22,
+          "cityName": "铜川市",
+          "mtCityId": "5000174"
+        },
+        {
+          "cityId": 173,
+          "provinceId": 22,
+          "cityName": "渭南市",
+          "mtCityId": "5000175"
+        },
+        {
+          "cityId": 174,
+          "provinceId": 22,
+          "cityName": "延安市",
+          "mtCityId": "5000176"
+        },
+        {
+          "cityId": 175,
+          "provinceId": 22,
+          "cityName": "榆林市",
+          "mtCityId": "5000177"
+        },
+        {
+          "cityId": 233,
+          "provinceId": 22,
+          "cityName": "咸阳市",
+          "mtCityId": "5000235"
+        }
+      ]
+    },
+    {
+      "provinceId": 23,
+      "provinceName": "四川省",
+      "cities": [
+        {
+          "cityId": 176,
+          "provinceId": 23,
+          "cityName": "达州市",
+          "mtCityId": "5000178"
+        },
+        {
+          "cityId": 177,
+          "provinceId": 23,
+          "cityName": "德阳市",
+          "mtCityId": "5000179"
+        },
+        {
+          "cityId": 178,
+          "provinceId": 23,
+          "cityName": "广安市",
+          "mtCityId": "5000180"
+        },
+        {
+          "cityId": 179,
+          "provinceId": 23,
+          "cityName": "乐山市",
+          "mtCityId": "5000181"
+        },
+        {
+          "cityId": 180,
+          "provinceId": 23,
+          "cityName": "泸州市",
+          "mtCityId": "5000182"
+        },
+        {
+          "cityId": 181,
+          "provinceId": 23,
+          "cityName": "眉山市",
+          "mtCityId": "5000183"
+        },
+        {
+          "cityId": 182,
+          "provinceId": 23,
+          "cityName": "南充市",
+          "mtCityId": "5000184"
+        },
+        {
+          "cityId": 183,
+          "provinceId": 23,
+          "cityName": "内江市",
+          "mtCityId": "5000185"
+        },
+        {
+          "cityId": 184,
+          "provinceId": 23,
+          "cityName": "攀枝花市",
+          "mtCityId": "5000186"
+        },
+        {
+          "cityId": 185,
+          "provinceId": 23,
+          "cityName": "遂宁市",
+          "mtCityId": "5000187"
+        },
+        {
+          "cityId": 186,
+          "provinceId": 23,
+          "cityName": "雅安市",
+          "mtCityId": "5000188"
+        },
+        {
+          "cityId": 187,
+          "provinceId": 23,
+          "cityName": "宜宾市",
+          "mtCityId": "5000189"
+        },
+        {
+          "cityId": 188,
+          "provinceId": 23,
+          "cityName": "资阳市",
+          "mtCityId": "5000190"
+        },
+        {
+          "cityId": 189,
+          "provinceId": 23,
+          "cityName": "自贡市",
+          "mtCityId": "5000191"
+        },
+        {
+          "cityId": 234,
+          "provinceId": 23,
+          "cityName": "绵阳市",
+          "mtCityId": "5000236"
+        }
+      ]
+    },
+    {
+      "provinceId": 24,
+      "provinceName": "西藏自治区",
+      "cities": [
+        {
+          "cityId": 190,
+          "provinceId": 24,
+          "cityName": "拉萨市",
+          "mtCityId": "5000192"
+        }
+      ]
+    },
+    {
+      "provinceId": 25,
+      "provinceName": "新疆维吾尔自治区",
+      "cities": [
+        {
+          "cityId": 191,
+          "provinceId": 25,
+          "cityName": "阿克苏地区",
+          "mtCityId": "5000193"
+        },
+        {
+          "cityId": 192,
+          "provinceId": 25,
+          "cityName": "阿勒泰地区",
+          "mtCityId": "5000194"
+        },
+        {
+          "cityId": 193,
+          "provinceId": 25,
+          "cityName": "昌吉回族自治州",
+          "mtCityId": "5000195"
+        },
+        {
+          "cityId": 194,
+          "provinceId": 25,
+          "cityName": "哈密地区",
+          "mtCityId": "5000196"
+        },
+        {
+          "cityId": 195,
+          "provinceId": 25,
+          "cityName": "和田地区",
+          "mtCityId": "5000197"
+        },
+        {
+          "cityId": 196,
+          "provinceId": 25,
+          "cityName": "喀什地区",
+          "mtCityId": "5000198"
+        },
+        {
+          "cityId": 197,
+          "provinceId": 25,
+          "cityName": "克拉玛依市",
+          "mtCityId": "5000199"
+        },
+        {
+          "cityId": 198,
+          "provinceId": 25,
+          "cityName": "塔城地区",
+          "mtCityId": "5000200"
+        },
+        {
+          "cityId": 235,
+          "provinceId": 25,
+          "cityName": "乌鲁木齐市",
+          "mtCityId": "5000237"
+        }
+      ]
+    },
+    {
+      "provinceId": 26,
+      "provinceName": "云南省",
+      "cities": [
+        {
+          "cityId": 199,
+          "provinceId": 26,
+          "cityName": "保山市",
+          "mtCityId": "5000201"
+        },
+        {
+          "cityId": 200,
+          "provinceId": 26,
+          "cityName": "楚雄彝族自治州",
+          "mtCityId": "5000202"
+        },
+        {
+          "cityId": 201,
+          "provinceId": 26,
+          "cityName": "大理白族自治州",
+          "mtCityId": "5000203"
+        },
+        {
+          "cityId": 202,
+          "provinceId": 26,
+          "cityName": "红河哈尼族彝族自治州",
+          "mtCityId": "5000204"
+        },
+        {
+          "cityId": 203,
+          "provinceId": 26,
+          "cityName": "临沧市",
+          "mtCityId": "5000205"
+        },
+        {
+          "cityId": 204,
+          "provinceId": 26,
+          "cityName": "普洱市",
+          "mtCityId": "5000206"
+        },
+        {
+          "cityId": 205,
+          "provinceId": 26,
+          "cityName": "曲靖市",
+          "mtCityId": "5000207"
+        },
+        {
+          "cityId": 206,
+          "provinceId": 26,
+          "cityName": "文山壮族苗族自治州",
+          "mtCityId": "5000208"
+        },
+        {
+          "cityId": 207,
+          "provinceId": 26,
+          "cityName": "西双版纳傣族自治州",
+          "mtCityId": "5000209"
+        },
+        {
+          "cityId": 208,
+          "provinceId": 26,
+          "cityName": "玉溪市",
+          "mtCityId": "5000210"
+        },
+        {
+          "cityId": 209,
+          "provinceId": 26,
+          "cityName": "昭通市",
+          "mtCityId": "5000211"
+        }
+      ]
+    },
+    {
+      "provinceId": 27,
+      "provinceName": "浙江省",
+      "cities": [
+        {
+          "cityId": 210,
+          "provinceId": 27,
+          "cityName": "丽水市",
+          "mtCityId": "5000212"
+        },
+        {
+          "cityId": 211,
+          "provinceId": 27,
+          "cityName": "衢州市",
+          "mtCityId": "5000213"
+        },
+        {
+          "cityId": 212,
+          "provinceId": 27,
+          "cityName": "舟山市",
+          "mtCityId": "5000214"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "dpapp-core",
+  "version": "1.2.1",
+  "description": "Core funcs for DP jsbridge.",
+  "main": "./lib/index.js",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {
+    "mix": "^1.0.1",
+    "promise": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://code.dianpingoa.com/f2ei/dpapp-core.git"
+  },
+  "keywords": [
+    "dpapp",
+    "jsbridge"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "supersheep",
+    "email": "supersheepxjy@gmail.com"
+  },
+  "bugs": {
+    "url": "http://code.dianpingoa.com/f2ei/dpapp-core/issues"
+  },
+  "homepage": "http://code.dianpingoa.com/f2ei/dpapp-core",
+  "gitHead": "0456b864b915eed41555f81a2854bf9bcc13e694",
+  "readme": "## dpapp-core\n\nDPApp JSBridge核心\n\n你可以使用该模块来定制自己的jsbridge\n\n核心模块本身包含的api可以check`./lib/apis.js`\n\n让我们来扩展一下\n\n```javascript\n\nvar Core = require('dpapp-core');\n\n// 初始化\nvar DPApp = new Core({\n\tapis: [\"list\"], // 完全覆盖默认支持的api，\n\textraApis: [\"a\",\"b\"], // 在原有api的基础上新增，\n\tgetTypeFromUA: function(ua){\n\t\tif(ua.indexOf('dpapp') !==  -1){\n\t\t\treturn \"app\";\n\t\t}else{\n\t\t\treturn \"web\"\n\t\t}\n  }\n});\n\n// 为不同平台打patch，非必须\nDPApp.patchForType(\"web\", {\n\tready: function(callback){\n\t\t// bindDomReady(callback)\n\t}\n});\n\n```\n\n## 核心api\n\n### getVersion\n### getNetworkType\n### getContactList\n### pickContact\n### getRequestId\n### getDeviceInfo\n\n### store\n### retrieve\n### clearStorage\n\n### publish\n### subscribe\n### unsubscribe\n\n### openScheme\n### jumpToScheme\n### closeWindow\n\n### sendSMS\n### downloadImage\n\n### setBackgroundColor\n### setTitle\n### setLLButton\n### setLRButton\n### setRLButton\n### setRRButton\n\n### alert\n### prompt\n### confirm\n### actionSheet\n",
+  "readmeFilename": "README.md",
+  "_id": "dpapp-core@1.2.1",
+  "css": [],
+  "entries": []
+}

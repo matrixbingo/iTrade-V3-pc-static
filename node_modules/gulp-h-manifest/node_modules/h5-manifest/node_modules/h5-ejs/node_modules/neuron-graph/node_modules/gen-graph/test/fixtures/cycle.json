@@ -1,0 +1,84 @@
+{
+  "name": "test-pkg",
+  "version": "0.1.0",
+  "dependencies": {
+    "a": {
+      "from": "a@~1.0.0",
+      "version": "1.0.0",
+      "dependencies": {
+        "b": {
+          "from": "b@~1.0.0",
+          "version": "1.0.0",
+          "dependencies": {
+            "a": {
+              "from": "a@~1.0.0",
+              "version": "1.0.0"
+            }
+          }
+        }
+      }
+    },
+    "mixed": {
+      "from": "mixed@*",
+      "version": "1.0.0",
+      "dependencies": {
+        "a": {
+          "from": "a@~1.0.0",
+          "version": "1.0.0",
+          "dependencies": {
+            "b": {
+              "from": "b@~1.0.0",
+              "version": "1.0.0",
+              "dependencies": {
+                "a": {
+                  "from": "a@~1.0.0",
+                  "version": "1.0.0"
+                }
+              }
+            }
+          }
+        },
+        "c": {
+          "from": "c@~1.0.0",
+          "version": "1.0.0",
+          "dependencies": {
+            "d": {
+              "from": "d@~1.0.0",
+              "version": "1.0.0",
+              "dependencies": {
+                "e": {
+                  "from": "e@~1.0.0",
+                  "version": "1.0.0",
+                  "dependencies": {
+                    "c": {
+                      "from": "c@~1.0.0",
+                      "version": "1.0.0"
+                    },
+                    "f": {
+                      "from": "f@^1.0.0",
+                      "version": "1.0.0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "cycle": {
+          "from": "cycle@^1.0.0",
+          "version": "1.0.0",
+          "dependencies": {
+            "cycle": {
+              "from": "cycle@~1.0.0",
+              "version": "1.0.0"
+            }
+          }
+        },
+        "f": {
+          "from": "f@1.0.0",
+          "version": "1.0.0"
+        }
+      }
+    }
+  }
+}
